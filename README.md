@@ -3,7 +3,9 @@ Has one info button about generational length because people can get confused. b
 
 ![Ekran görüntüsü 2024-02-07 142344](https://github.com/nurgumus/bats-powerBI/assets/108015878/af7ea1f4-3526-4413-911d-118b6d497177)
 
-This one is the second slide and it's about 
+This one is the second slide and it's about environmental threats, the score is calculated by:
+[Threat Level ] = [Mining & quarrying] + [Sacred activities] + [Tourism and caving activities] + [Guano extraction] + [Vandalism] + [Nest harvesting] + [Bushmeat hunting & medicine] + [Gating] + [Scientific research] + [Agriculture] + [Urbanisation] + [Deforestation] + [Pollution] + [Road Kills] + [Diseases and parasitism] + [Invasive species, predation] + [Intensional killings/Misguided killings] + [Fire] + [Drought]+ [Heatwaves]+ [Extreme cold]+ [Storm]
+So higher the score is, the environment they live in is much more dangerous.
 
 ![Ekran görüntüsü 2024-02-07 142359](https://github.com/nurgumus/bats-powerBI/assets/108015878/60ff142f-8996-473d-a876-c8cfc261b9e0)
 
