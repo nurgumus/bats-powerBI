@@ -16,6 +16,10 @@ This slide is about parasites, has a map, slicer and parasite species distrubuti
 Fourth and last slide is about their ecosystem. Natural range means "A species range is the area where a particular species can be found during its lifetime."
 Target is the natural range and value is the current range of the species. Top left card shows are they in the area as expected.
 
+And the red bars you see on the table are concantrated according to environment level score. I calculated that column with:
+Env Score = [Canopy.cov]+ [Tree.dens] + [Freshwater.dist] -[Bareground.change] - [Shortveg.change] + [Talltree.change] - [Urban.dist] - [Road.dist] - [Mine.dens]- [Nighlight]- [Pesticide.exp]-[Pop.dens]
+The score itself doesn't particularly mean anything but it being higher or lower indicates ideas about environment quality.
+
 ![Ekran görüntüsü 2024-02-07 154701](https://github.com/nurgumus/bats-powerBI/assets/108015878/95b4ee74-06e8-43ab-8334-b14bdd06c8a6)
 
 This is the data model. One-to-many or Many-to-many relations sadly. 
