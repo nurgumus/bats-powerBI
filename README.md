@@ -5,3 +5,5 @@
 ![Ekran görüntüsü 2024-02-07 142539](https://github.com/nurgumus/bats-powerBI/assets/108015878/65e3d370-f574-4330-bbc6-87b5dd4b2b74)
 
 ![Ekran görüntüsü 2024-02-07 154701](https://github.com/nurgumus/bats-powerBI/assets/108015878/95b4ee74-06e8-43ab-8334-b14bdd06c8a6)
+
+![Ekran görüntüsü 2024-02-07 154820](https://github.com/nurgumus/bats-powerBI/assets/108015878/c7641b62-86b0-4d74-8cee-b6863b29eaf1)
