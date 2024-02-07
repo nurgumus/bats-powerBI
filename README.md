@@ -1,5 +1,9 @@
-This one is the main page that give general info about species,families, generational length, what type of food they consume and their population status
+This one is the main page that give general info about species,families, generational length, what type of food they consume and their population status.
+Has one info button about generational length because people can get confused. back button refreshes and hides the info. Done with bookmarks.
+
 ![Ekran görüntüsü 2024-02-07 142344](https://github.com/nurgumus/bats-powerBI/assets/108015878/af7ea1f4-3526-4413-911d-118b6d497177)
+
+This one is the second slide and it's about 
 
 ![Ekran görüntüsü 2024-02-07 142359](https://github.com/nurgumus/bats-powerBI/assets/108015878/60ff142f-8996-473d-a876-c8cfc261b9e0)
 
