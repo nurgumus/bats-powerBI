@@ -9,8 +9,15 @@ So higher the score is, the environment they live in is much more dangerous.
 
 ![Ekran görüntüsü 2024-02-07 142359](https://github.com/nurgumus/bats-powerBI/assets/108015878/60ff142f-8996-473d-a876-c8cfc261b9e0)
 
+This slide is about parasites, has a map, slicer and parasite species distrubution.
+
 ![Ekran görüntüsü 2024-02-07 142539](https://github.com/nurgumus/bats-powerBI/assets/108015878/65e3d370-f574-4330-bbc6-87b5dd4b2b74)
 
+Fourth and last slide is about their ecosystem. Natural range means "A species range is the area where a particular species can be found during its lifetime."
+Target is the natural range and value is the current range of the species. Top left card shows are they in the area as expected.
+
 ![Ekran görüntüsü 2024-02-07 154701](https://github.com/nurgumus/bats-powerBI/assets/108015878/95b4ee74-06e8-43ab-8334-b14bdd06c8a6)
+
+This is the data model. One-to-many or Many-to-many relations sadly. 
 
 ![Ekran görüntüsü 2024-02-07 154820](https://github.com/nurgumus/bats-powerBI/assets/108015878/c7641b62-86b0-4d74-8cee-b6863b29eaf1)
